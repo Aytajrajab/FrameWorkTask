@@ -1,0 +1,24 @@
+﻿@using FrameWorkTask.Models;
+@using FrameWorkTask.ViewModels;
+@model HomeViewModel;
+
+<ul>
+    @foreach (var product in Model.products)
+    {
+    <li>@product.Name</li>
+    }
+</ul>
+<ul>
+    @foreach (var user in Model.users)
+    {
+    <li>@user.UserName</li>
+    <li>@user.Email</li>
+    <li>@user.userRole</li>
+    }
+</ul>
+<ul>
+    @foreach (var category in Model.categories)
+   {
+       <li>@category.Name</li>
+   }
+</ul>

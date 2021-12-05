@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameWorkTask", "FrameWorkTask\FrameWorkTask.csproj", "{B13AC9BB-233D-400C-A57D-77D88C217FD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B13AC9BB-233D-400C-A57D-77D88C217FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B13AC9BB-233D-400C-A57D-77D88C217FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B13AC9BB-233D-400C-A57D-77D88C217FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B13AC9BB-233D-400C-A57D-77D88C217FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE0728ED-CC9F-4286-A0E8-80A063C8E3A5}
+	EndGlobalSection
+EndGlobal
